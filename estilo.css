@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+    color: white;
+}
+#fundo{
+    background-color: #606060;
+}
+header{
+    color: white;
+}
+#corpo{
+    background-color: rgb(6, 1, 56);
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    max-width: 70%;
+    margin: auto;
+}
+#botao{
+    color: black;
+    transition: 0.2s;
+}
+#botao:hover{
+    -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+#idade{
+    color: black;
+}
+#radio{
+    color: white;
+    font-size: 10px;
+}
+#img{
+    width: 100px;
+    
+}
