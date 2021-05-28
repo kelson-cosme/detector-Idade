@@ -19,7 +19,7 @@ function verificar(){
             genero = "Homem"
            
             if(idade >= 0 && idade < 15){    /*CRIANÇA*/
-                imagem.src = imgens/foto-bebe-m.png
+                imagem.src = "imgens/foto-bebe-m.png"
 
             }else if(idade < 21){   /*JOVEM*/ 
                 imagem.src = "/imgens/foto-jovem-m.png"
