@@ -31,7 +31,7 @@ function verificar(){
                 imagem.src = "imgens/foto-idoso-m.png"
             }
 
-
+ 
         }else if (sexo[1].checked){
             genero = "Mulher"
 
